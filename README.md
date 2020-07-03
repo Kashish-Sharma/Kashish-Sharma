@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kashish Sharma. Iam 22 years old.
+My name is Kashish Sharma. I am 22 years old.
 
 Currently I work for [Josh Technology Group](https://www.joshtechnologygroup.com/), based in Gurugram, India.
 #### Furthermore, I'm always happy to chat about Android and Backend Development.
