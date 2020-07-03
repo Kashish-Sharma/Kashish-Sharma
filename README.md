@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Kashish Sharma. I am 22 years old.<br>
-Currently I work for [Josh Technology Group](https://www.joshtechnologygroup.com/), based in Gurugram, India.
-#### Furthermore, I'm always happy to chat about Android and Backend Development.<br>
+Currently I work for [Josh Technology Group](https://www.joshtechnologygroup.com/), based in Gurugram, India.<br><br>
+<b> Furthermore, I'm always happy to chat about Android and Backend Development.</b> <br><br>
 You can find out what I do and who I am in the following sections.<br>
-All the best,
-#### Kashish Sharma
+All the best,<br>
+<b>Kashish Sharma </b><br>
 
 
 <a href="https://github.com/Kashish-Sharma/" rel="GitHub Profile">![Github](https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/github_icon.png)</a>
