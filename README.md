@@ -7,6 +7,12 @@ All the best,<br>
 #### Kashish Sharma<br>
 
 
-[Github](https://www.github.com/Kashish-Sharma/)
-[Twitter](https://twitter.com/kashish25798/)
-[LinkedIn](https://www.linkedin.com/in/kashish98/)
+
+![Github][github_icon_link]
+![LinkedIn][linkedin_icon_link]
+![Twitter][twitter_icon_link]
+
+
+[github_icon_link]: https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/github_icon.png
+[linkedin_icon_link]: https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/linkedin_icon.png
+[twitter_icon_link]: https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/twitter_icon.png
