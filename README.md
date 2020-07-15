@@ -10,4 +10,6 @@ All the best,<br>
 <a href="https://github.com/Kashish-Sharma/" rel="GitHub Profile">![Github](https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/github_icon.png)</a>
 <a href="https://www.linkedin.com/in/kashish98/" rel="LinkedIn Profile">![LinkedIn](https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/linkedin_icon.png)</a>
 <a href="https://twitter.com/kashish25798" rel="Twitter Profile">![Twitter](https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/twitter_icon.png)</a>
-<a href='https://play.google.com/store/apps/details?id=com.cinopsys.movieshows'><img alt='Get it on Google Play' src='https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/google_play_icon.png' height=42 width='42'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.cinopsys.movieshows'><img alt='Get it on Google Play' src='https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/google_play_icon.png' height=42 width='42'/></a><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kashish-Sharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
