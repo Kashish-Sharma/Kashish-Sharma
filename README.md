@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Kashish Sharma. I am 22 years old.<br>
-Currently I work for [Josh Technology Group](https://www.joshtechnologygroup.com/), based in Gurugram, India.<br><br>
+Currently I work for [Zomato](https://www.zomato.com/), based in Gurugram, India.<br><br>
 <b> Furthermore, I'm always happy to chat about Android Development.</b> <br><br>
 You can find out what I do and who I am in the following sections.<br>
 All the best,<br>
