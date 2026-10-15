@@ -15,7 +15,7 @@ I'm particularly interested in **Android, developer tools, AI × software engine
 
 ### 🎬 Cinopsys
 
-I'm the sole developer of **[Cinopsys](https://cinopsysapp.com)**, an ad-free movie & TV tracker for Android.
+I'm the sole developer of **[Cinopsys](https://cinopsysapp.com)**, a movie & TV tracker for Android.
 
 - **130K+ downloads**
 - **12K+ monthly active users**
