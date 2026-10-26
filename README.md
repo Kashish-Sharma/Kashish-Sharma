@@ -26,7 +26,7 @@ I'm the sole developer of **[Cinopsys](https://cinopsysapp.com)**, a movie & TV 
 
 <p align="left">
   <a href="https://cinopsysapp.com">
-    <img src="https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/cinopsys_icon.webp" alt="Cinopsys" height="40"/>
+    <img src="https://github.com/Kashish-Sharma/Kashish-Sharma/blob/master/assets/cinopsys_icon_v1.webp" alt="Cinopsys" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.cinopsys.movieshows">
